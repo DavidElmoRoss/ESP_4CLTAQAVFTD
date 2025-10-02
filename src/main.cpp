@@ -19,7 +19,7 @@ void loop()
 //  printf("\e[2;35H\e[45mHello World\n"); // Option 1 
 //  printf("\e[2;35H\e[42mHello World\n"); // Option 2
 //  printf("\e[2;35H\e[44mHello World\n"); // Option 3
-  printf("\e[2;35H\e[41mHello World\n"); // Option 4
+//  printf("\e[2;35H\e[41mHello World\n"); // Option 4
 
     for(;;);                                // DO NOT change this line
 }
